@@ -14,7 +14,7 @@
 </p>
 
 ### Papers
-- [**ROBIO2025**] Temporal Text Prompts for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10907305)]
+- [**ROBIO 2025**] Temporal Text Prompts for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10907305)]
 - [**KBS 2024**] MLP-AIR: An effective MLP-based module for actor interaction relation learning in group activity recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124010876)]
 - [**TCSVT 2024**] SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/document/10495051)]
 - [**PR 2024**] Kinematics Modeling Network for Video-based Human Pose Estimation [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324000384)]
