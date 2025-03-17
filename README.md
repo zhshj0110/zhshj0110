@@ -14,12 +14,12 @@
 </p>
 
 ### Papers
-- [**ROBIO 2025**] Temporal Text Prompts for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10907305)]
+- [**PR 2025**] A Generically Contrastive Spatiotemporal Representation Enhancement for 3D Skeleton Action Recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325001815)]
+- [**ROBIO 2024**] Temporal Text Prompts for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10907305)]
 - [**KBS 2024**] MLP-AIR: An effective MLP-based module for actor interaction relation learning in group activity recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124010876)]
 - [**TCSVT 2024**] SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/document/10495051)]
 - [**PR 2024**] Kinematics Modeling Network for Video-based Human Pose Estimation [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324000384)]
 - [**TIP 2022**] Relation-Based Associative Joint Location for Human Pose Estimation in Videos [[paper](https://ieeexplore.ieee.org/document/9786543)]
-- [-] Spatial-Temporal Decoupling Contrastive Learning for Skeleton-based Human Action Recognition  [[paper](https://arxiv.org/abs/2312.15144)]
 <!--
 **zhshj0110/zhshj0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
