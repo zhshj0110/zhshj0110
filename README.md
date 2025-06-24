@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=zhshj0110)
 - 🌱 I’m currently studying at the School of Artificial Intelligence, **Beijing University of Posts and Telecommunications**.
 - 🤔 My research interests include **Human Activity Analysis**, **Human Motion Synthetic** and **Multimodal Large Language Models**.
-- 📫 Email me @ zsj@bupt.edu.cn
+- 📫 Email me @ zhshj0110@gmail.com
 <p align="center">
 <a> <img align="center" 
   src="https://github-readme-stats.vercel.app/api?username=zhshj0110&show_icons=true&theme=buefy&hide_border=true" 
