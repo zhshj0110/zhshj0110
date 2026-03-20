@@ -14,6 +14,7 @@
 </p>
 
 ### Papers
+- [**NeurIPS 2025**] BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent [[paper](https://arxiv.org/abs/2509.15566)]
 - [**ICCV 2025**] Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs [[paper](https://arxiv.org/abs/2506.22139)]
 - [**PR 2025**] A Generically Contrastive Spatiotemporal Representation Enhancement for 3D Skeleton Action Recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325001815)]
 - [**ROBIO 2024**] Temporal Text Prompts for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10907305)]
